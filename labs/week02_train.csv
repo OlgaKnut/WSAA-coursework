@@ -1,0 +1,11 @@
+N	53.2043	-6.10046	E808	11 Feb 2024	E808\nBray to Malahide\nExpected Departure 16:45	Northbound
+N	53.3891	-6.07401	E214	11 Feb 2024	E214\nHowth to Bray\nExpected Departure 16:35	Southbound
+R	53.2557	-6.11317	E914	11 Feb 2024	E914\n16:14 - Greystones to Howth (1 mins late)\nDeparted Killiney next stop Dalkey	Northbound
+R	53.2812	-6.12289	E108	11 Feb 2024	E108\n15:35 - Malahide to Greystones (0 mins late)\nDeparted Glenageary next stop Dalkey	Southbound
+R	53.3281	-6.22116	E213	11 Feb 2024	E213\n15:55 - Howth to Bray (0 mins late)\nDeparted Sandymount next stop Sydney Parade	Southbound
+R	53.3433	-6.24829	E913	11 Feb 2024	E913\n15:54 - Bray to Howth (-2 mins late)\nArrived Dublin Pearse next stop Tara Street	Northbound
+R	53.3531	-6.24591	E807	11 Feb 2024	E807\n15:45 - Bray to Malahide (2 mins late)\nArrived Dublin Connolly next stop Clontarf Road	Northbound
+R	53.3629	-6.22753	E110	11 Feb 2024	E110\n16:15 - Malahide to Greystones (0 mins late)\nDeparted Clontarf Road next stop Dublin Connolly	Southbound
+R	53.392	-6.11448	E912	11 Feb 2024	E912\n15:25 - Bray to Howth (1 mins late)\nDeparted Sutton next stop Howth	Northbound
+T	53.2043	-6.10046	E212	11 Feb 2024	E212\n15:15 - Howth to Bray(0 mins late)\nTERMINATED Bray at 16:28	Southbound
+T	53.3891	-6.07401	E911	11 Feb 2024	E911\n14:54 - Greystones to Howth(6 mins late)\nTERMINATED Howth at 16:26	Northbound
